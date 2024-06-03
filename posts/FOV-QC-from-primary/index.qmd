@@ -1,10 +1,10 @@
 ---
 title: "QC and normalization of RNA data"
 author:
-  - name: Patrick Danaher
+  - name: Mithra Korukonda
     affiliations:
       - ref: nstg
-      - ref: patrickjdanaher
+      - ref: skorukonda
 affiliations:
   - id: nstg
     name: NanoString Technologies, Inc.
